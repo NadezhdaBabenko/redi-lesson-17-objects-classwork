@@ -1,0 +1,60 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    background-color: #d1c4e9;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.jumbotron {
+    padding: 70px 30px;
+    margin: 0 auto;
+    background-color: #9575cd;
+    color: floralwhite;
+}
+
+address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+body {
+    padding: 50px 0 0 0;
+    z-index: 0;
+}
+
+.navbar-dark {
+    background-color: #512da8;
+}
+
+
+.content {
+    background-color: #fbfbfb;
+}
+
+.card {
+    width: 180px;
+}
+.card-title {
+    text-align: center;
+    font-weight: bold;
+    min-height: 48px;
+}
+.card-text {
+    font-size: 13px;
+}
+.card-img-top {
+    width: 180px;
+    height: 240px;
+}
